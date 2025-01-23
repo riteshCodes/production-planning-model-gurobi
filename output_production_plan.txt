@@ -1,0 +1,158 @@
+----------------Optimal Profit Found: 6340290.0 Euros ----------------
+
+----------------------------------------------------------------------
+ At the End of 1.Month: 
+ Total Demand (Beginning of the Month): 47000 units 
+ In-House Production: 28920.0 units 
+ Third Party Production: 15280.0 units 
+ Initial Inventory Level: 2800.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 300.0, from which 
+  	 Total New Employees Hired: 100.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 4800.0 
+
+----------------------------------------------------------------------
+ At the End of 2.Month: 
+ Total Demand (Beginning of the Month): 49000 units 
+ In-House Production: 33160.0 units 
+ Third Party Production: 15840.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 344.0, from which 
+  	 Total New Employees Hired: 44.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 5500.0 
+
+----------------------------------------------------------------------
+ At the End of 3.Month: 
+ Total Demand (Beginning of the Month): 52000 units 
+ In-House Production: 33160.0 units 
+ Third Party Production: 18840.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 344.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 5500.0 
+
+----------------------------------------------------------------------
+ At the End of 4.Month: 
+ Total Demand (Beginning of the Month): 35000 units 
+ In-House Production: 33160.0 units 
+ Third Party Production: 1840.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 344.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 5500.0 
+
+----------------------------------------------------------------------
+ At the End of 5.Month: 
+ Total Demand (Beginning of the Month): 31000 units 
+ In-House Production: 31000.0 units 
+ Third Party Production: 0.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 344.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 100.0 
+
+----------------------------------------------------------------------
+ At the End of 6.Month: 
+ Total Demand (Beginning of the Month): 22000 units 
+ In-House Production: 30960.0 units 
+ Third Party Production: 0.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: 8960.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 344.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: -0.0 
+
+----------------------------------------------------------------------
+ At the End of 7.Month: 
+ Total Demand (Beginning of the Month): 26000 units 
+ In-House Production: 33160.0 units 
+ Third Party Production: 1080.0 units 
+ Initial Inventory Level: 8960.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 344.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 5500.0 
+
+----------------------------------------------------------------------
+ At the End of 8.Month: 
+ Total Demand (Beginning of the Month): 34000 units 
+ In-House Production: 30150.0 units 
+ Third Party Production: 0.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: 2950.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 335.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 9.0 
+ 	 Total Overtime Working Hours: -0.0 
+
+----------------------------------------------------------------------
+ At the End of 9.Month: 
+ Total Demand (Beginning of the Month): 39000 units 
+ In-House Production: 30150.0 units 
+ Third Party Production: 0.0 units 
+ Initial Inventory Level: 2950.0 units 
+ Final Inventory Level: 1900.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 335.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: -0.0 
+
+----------------------------------------------------------------------
+ At the End of 10.Month: 
+ Total Demand (Beginning of the Month): 41000 units 
+ In-House Production: 39100.0 units 
+ Third Party Production: 0.0 units 
+ Initial Inventory Level: 1900.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 434.0, from which 
+  	 Total New Employees Hired: 99.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 100.0 
+
+----------------------------------------------------------------------
+ At the End of 11.Month: 
+ Total Demand (Beginning of the Month): 45000 units 
+ In-House Production: 45000.0 units 
+ Third Party Production: 0.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): -0.0 units
+ Total Employees: 500.0, from which 
+  	 Total New Employees Hired: 66.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: -0.0 
+
+----------------------------------------------------------------------
+ At the End of 12.Month: 
+ Total Demand (Beginning of the Month): 46000 units 
+ In-House Production: 46000.0 units 
+ Third Party Production: 0.0 units 
+ Initial Inventory Level: -0.0 units 
+ Final Inventory Level: -0.0 units 
+ Unfulfilled Demand (Stockout): 0.0 units
+ Total Employees: 500.0, from which 
+  	 Total New Employees Hired: -0.0 
+ 	 Total Existing Employees Layoff: 0.0 
+ 	 Total Overtime Working Hours: 2500.0 
+
